@@ -7,7 +7,7 @@ function App() {
   return (
     <>              
       {/* <Router/> */}
-      <div>hello test</div>
+      <div>hello</div>
     </>
   )
 }
