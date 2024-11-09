@@ -6,11 +6,7 @@ function App() {
 
   return (
     <>              
-
-
-      {/* <div>test edit </div> */}
-      <div>test edit on branch11</div>
-
+        <div>KRID TEST THE CODE FROM BRANCH MAIN</div>
     </>
   )
 }
