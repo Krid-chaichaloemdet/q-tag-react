@@ -6,7 +6,8 @@ function App() {
 
   return (
     <>              
-      <Router/>
+      {/* <Router/> */}
+      <div>hello test</div>
     </>
   )
 }
